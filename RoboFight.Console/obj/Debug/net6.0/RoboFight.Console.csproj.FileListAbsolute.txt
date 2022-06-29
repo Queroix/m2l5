@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-5\RoboFight.Console\obj\Debug\net6.0\RoboFight.Console.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-5\RoboFight.Console\obj\Debug\net6.0\RoboFight.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-5\RoboFight.Console\obj\Debug\net6.0\RoboFight.Console.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-5\RoboFight.Console\obj\Debug\net6.0\RoboFight.Console.AssemblyInfo.cs
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-5\RoboFight.Console\obj\Debug\net6.0\RoboFight.Console.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-5\RoboFight.Console\bin\Debug\net6.0\RoboFight.Console.exe
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-5\RoboFight.Console\bin\Debug\net6.0\RoboFight.Console.deps.json
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-5\RoboFight.Console\bin\Debug\net6.0\RoboFight.Console.runtimeconfig.json
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-5\RoboFight.Console\bin\Debug\net6.0\RoboFight.Console.dll
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-5\RoboFight.Console\bin\Debug\net6.0\RoboFight.Console.pdb
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-5\RoboFight.Console\obj\Debug\net6.0\RoboFight.Console.dll
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-5\RoboFight.Console\obj\Debug\net6.0\refint\RoboFight.Console.dll
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-5\RoboFight.Console\obj\Debug\net6.0\RoboFight.Console.pdb
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-5\RoboFight.Console\obj\Debug\net6.0\RoboFight.Console.genruntimeconfig.cache
+C:\Users\User\Desktop\DevInHouse\Modulo-2\semana-5\RoboFight.Console\obj\Debug\net6.0\ref\RoboFight.Console.dll
